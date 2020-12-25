@@ -1,0 +1,40 @@
+body {
+	background-color: darkslategrey;
+	cursor: pointer;
+}
+.box {
+	border: 1px solid black;
+	height: 240px;
+	width: 400px;
+	margin: 50px auto;
+	margin-top: 90px;
+	/*background: linear-gradient(#f4e409, #f1cf0a, #eeba0b);*/
+	background: url("img/wilhelm-gunkel-0TO6MY7_mw4-unsplash.jpg");
+	background-size: cover;
+	border-radius: 8px;
+	box-shadow: 2px 4px 18px 5px;
+	color: currentColor;
+	opacity: 0.8;
+}
+.box:hover {
+	box-shadow: 3px 6px 28px 7px;
+}
+img {
+	position: absolute;
+	left: 55%;
+	top: 18%;
+}
+.chip {
+	position: absolute;
+	left: 37%;
+	top: 26%;
+}
+h {
+	font-family: kelly slab, cursive;
+	color: wheat;
+	font-size: 24px;
+	position: absolute;
+	left: 37%;
+	top: 36%;
+	letter-spacing: 6px;
+}

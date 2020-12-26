@@ -54,15 +54,15 @@ h4 {
 	width: 10px;
 	font-family: kelly slab, cursive;
 	color: wheat;
-	font-size: 12px;
+	font-size: 10px;
 	position: absolute;
 	left: 55%;
 	top: 38%;
 	font-weight: normal;
-	line-height: -10px;
+	line-height: 9px;
 	opacity: 0.3;
 }
-t {
+h6 {
 	font-family: kelly slab, cursive;
 	color: wheat;
 	position: absolute;
@@ -92,10 +92,11 @@ h2 {
 		left: 10%;
 	}
 }
-@media (max-width: 390px) {
+@media (max-width: 320px) {
 	h {
 		position: absolute;
-		width: fit-content;
+		/*height: 250px;*/
+		width: 400px;
 		top: 37%;
 		left: 10%;
 	}
@@ -105,5 +106,19 @@ h2 {
 		position: absolute;
 		left: 10%;
 		top: 45%;
+	}
+}
+@media (max-width: 320px) {
+	h6 {
+		position: absolute;
+		top: 38%;
+		left: 81%;
+	}
+}
+@media (max-width: 320px) {
+	h4 {
+		position: absolute;
+		top: 40%;
+		left: 72%;
 	}
 }

@@ -79,29 +79,29 @@ h2 {
 	top: 43%;
 	letter-spacing: 3px;
 }
-@media (max-width: 600px) {
+@media (max-width: 440px) {
 	img {
 		position: absolute;
 		top: 17%;
-		left: 61%;
+		left: 64%;
 	}
 }
-@media (max-width: 600px) {
+@media (max-width: 440px) {
 	.chip {
 		position: absolute;
-		left: 20%;
+		left: 10%;
 	}
 }
-@media (max-width: 600px) {
+@media (max-width: 440px) {
 	h {
 		position: absolute;
 		top: 37%;
-		left: 20%;
+		left: 10%;
 	}
 }
-@media (max-width: 590px) {
+@media (max-width: 440px) {
 	h2 {
 		position: absolute;
-		left: 20%;
+		left: 10%;
 	}
 }

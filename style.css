@@ -28,6 +28,8 @@ img {
 	position: absolute;
 	left: 37%;
 	top: 26%;
+	border: 1px solid rgb(0, 0, 0 0.2);
+	border-radius: 12px;
 }
 h {
 	font-family: kelly slab, cursive;

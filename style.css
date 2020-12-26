@@ -35,6 +35,45 @@ h {
 	font-size: 24px;
 	position: absolute;
 	left: 37%;
-	top: 36%;
+	top: 35%;
 	letter-spacing: 6px;
+}
+h1 {
+	font-family: kelly slab, cursive;
+	color: wheat;
+	font-size: 12px;
+	position: absolute;
+	left: 37%;
+	top: 39%;
+	font-weight: normal;
+	opacity: 0.2;
+}
+h4 {
+	width: 10px;
+	font-family: kelly slab, cursive;
+	color: wheat;
+	font-size: 12px;
+	position: absolute;
+	left: 55%;
+	top: 38%;
+	font-weight: normal;
+	line-height: -10px;
+	opacity: 0.3;
+}
+t {
+	font-family: kelly slab, cursive;
+	color: wheat;
+	position: absolute;
+	left: 57.4%;
+	top: 40.7%;
+	letter-spacing: 2px;
+}
+h2 {
+	font-family: kelly slab, cursive;
+	color: wheat;
+	font-weight: normal;
+	position: absolute;
+	left: 37%;
+	top: 46%;
+	letter-spacing: 3px;
 }

@@ -81,46 +81,10 @@ h2 {
 	top: 70%;
 	letter-spacing: 3px;
 }
-@media (max-width: 390px) {
+@media (max-width: 360px) {
 	img {
 		position: absolute;
 		top: 17%;
 		left: 64%;
-	}
-}
-@media (max-width: 390px) {
-	.chip {
-		position: absolute;
-		left: 10%;
-	}
-}
-@media (max-width: 320px) {
-	h {
-		position: absolute;
-		/*height: 250px;*/
-		width: 400px;
-		top: 37%;
-		left: 10%;
-	}
-}
-@media (max-width: 390px) {
-	h2 {
-		position: absolute;
-		left: 10%;
-		top: 45%;
-	}
-}
-@media (max-width: 320px) {
-	h6 {
-		position: absolute;
-		top: 38%;
-		left: 81%;
-	}
-}
-@media (max-width: 320px) {
-	h4 {
-		position: absolute;
-		top: 40%;
-		left: 72%;
 	}
 }
